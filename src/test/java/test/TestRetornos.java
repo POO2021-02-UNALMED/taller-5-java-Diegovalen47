@@ -27,7 +27,7 @@ public class TestRetornos {
 		new Pez();
 		new Ave();
 		new Ave();
-		boolean ok = false;
+		boolean ok = true;
 		String  comp = "Mamiferos: 4\n" +
 				"Aves: 5\n" +
 				"Reptiles: 3\n" +
