@@ -18,7 +18,6 @@ public class TestRetornos {
 
 	@Test
    	public void testTotalTipo(){
-		
 		new Anfibio();
 		new Anfibio();
 		new Mamifero();
